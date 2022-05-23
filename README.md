@@ -12,7 +12,7 @@
 - <b>Creating a landing page for a language app </b>
    - UI and UX design, HTML and CSS
    -[Landing Page](https://github.com/ZainabAbid1/w3d5_landing-page-hackathon-zainab-hannah.git) 
-  - <b>Backend, Creating API's </b>
+ - <b>Backend, Creating API's </b>
   - CRUD (Create, Read, Update, Delete)
   - MiddleWare
   - Postman
