@@ -16,7 +16,7 @@
   - CRUD (Create, Read, Update, Delete)
   - MiddleWare
   - Postman
-  - [Hackathon] (https://github.com/ZainabAbid1/w4d5_build-a-back-end-hackathon-sam-zainab.git)
+  - [Hackathon](https://github.com/ZainabAbid1/w4d5_build-a-back-end-hackathon-sam-zainab.git)
 
 
 <h2> 🤳 Connect with me:</h2>
